@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/ED1Hashtable/hashtable.cpp
+hashtable.h
+C:/Users/ASUS/CLionProjects/ED1Hashtable/hashtable.h
+iostream
+-
+time.h
+-
+
+C:/Users/ASUS/CLionProjects/ED1Hashtable/hashtable.h
+string
+-
+
+C:/Users/ASUS/CLionProjects/ED1Hashtable/main.cpp
+conio.h
+-
+iostream
+-
+hashtable.h
+C:/Users/ASUS/CLionProjects/ED1Hashtable/hashtable.h
+
